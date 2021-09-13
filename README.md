@@ -1,4 +1,4 @@
-#KNN model used to predict where plinko balls land in game, follows other repo :) 
+# KNN model used to predict where plinko balls land in game, follows other repo :) 
 - uses lodash and js for data filtration !
 
 - goal is to learn about machine learning and incorporate into react projects 
